@@ -1,0 +1,15 @@
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\bin\Debug\net10.0\5.LongestPalindromicSubstring.exe
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\bin\Debug\net10.0\5.LongestPalindromicSubstring.deps.json
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\bin\Debug\net10.0\5.LongestPalindromicSubstring.runtimeconfig.json
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\bin\Debug\net10.0\5.LongestPalindromicSubstring.dll
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\bin\Debug\net10.0\5.LongestPalindromicSubstring.pdb
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.AssemblyInfoInputs.cache
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.AssemblyInfo.cs
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.sourcelink.json
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.dll
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\refint\5.LongestPalindromicSubstring.dll
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.pdb
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\5.LongestPalindromicSubstring.genruntimeconfig.cache
+D:\dsa-by-csharp\5.LongestPalindromicSubstring\obj\Debug\net10.0\ref\5.LongestPalindromicSubstring.dll
