@@ -1,0 +1,15 @@
+D:\dsa-in-csharp\6.ZigzagConversion\bin\Debug\net10.0\6.ZigzagConversion.exe
+D:\dsa-in-csharp\6.ZigzagConversion\bin\Debug\net10.0\6.ZigzagConversion.deps.json
+D:\dsa-in-csharp\6.ZigzagConversion\bin\Debug\net10.0\6.ZigzagConversion.runtimeconfig.json
+D:\dsa-in-csharp\6.ZigzagConversion\bin\Debug\net10.0\6.ZigzagConversion.dll
+D:\dsa-in-csharp\6.ZigzagConversion\bin\Debug\net10.0\6.ZigzagConversion.pdb
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.AssemblyInfoInputs.cache
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.AssemblyInfo.cs
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.csproj.CoreCompileInputs.cache
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.sourcelink.json
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.dll
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\refint\6.ZigzagConversion.dll
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.pdb
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\6.ZigzagConversion.genruntimeconfig.cache
+D:\dsa-in-csharp\6.ZigzagConversion\obj\Debug\net10.0\ref\6.ZigzagConversion.dll
