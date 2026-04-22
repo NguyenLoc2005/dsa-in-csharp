@@ -1,0 +1,15 @@
+D:\dsa-in-csharp\8.StringToInteger\bin\Debug\net10.0\StringToInteger.exe
+D:\dsa-in-csharp\8.StringToInteger\bin\Debug\net10.0\StringToInteger.deps.json
+D:\dsa-in-csharp\8.StringToInteger\bin\Debug\net10.0\StringToInteger.runtimeconfig.json
+D:\dsa-in-csharp\8.StringToInteger\bin\Debug\net10.0\StringToInteger.dll
+D:\dsa-in-csharp\8.StringToInteger\bin\Debug\net10.0\StringToInteger.pdb
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.AssemblyInfoInputs.cache
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.AssemblyInfo.cs
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.csproj.CoreCompileInputs.cache
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.sourcelink.json
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.dll
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\refint\StringToInteger.dll
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.pdb
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\StringToInteger.genruntimeconfig.cache
+D:\dsa-in-csharp\8.StringToInteger\obj\Debug\net10.0\ref\StringToInteger.dll
