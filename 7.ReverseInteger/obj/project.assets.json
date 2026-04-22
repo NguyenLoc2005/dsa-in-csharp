@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dsa-in-csharp\\ReverseInteger\\ReverseInteger.csproj",
+      "projectUniqueName": "D:\\dsa-in-csharp\\7.ReverseInteger\\ReverseInteger.csproj",
       "projectName": "ReverseInteger",
-      "projectPath": "D:\\dsa-in-csharp\\ReverseInteger\\ReverseInteger.csproj",
+      "projectPath": "D:\\dsa-in-csharp\\7.ReverseInteger\\ReverseInteger.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\dsa-in-csharp\\ReverseInteger\\obj\\",
+      "outputPath": "D:\\dsa-in-csharp\\7.ReverseInteger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
